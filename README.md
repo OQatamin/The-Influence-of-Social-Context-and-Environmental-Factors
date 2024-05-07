@@ -1,4 +1,4 @@
-# The-Influence-of-Social-Context-and-Environmental-Factors
+# The-Influence-of-Social-Context-and-Environmental-Factors-Machine Learning Approach 
 
 This analysis delves into the intricate behaviors exhibited by fish in response to different environmental and social stimuli, employing a dataset that captures various metrics of shoaling behavior before and after treatment. Through meticulous data processing and visualization using pandas, seaborn, and matplotlib in Python, the research uncovers significant shifts in shoaling dynamics, scrutinizing pre-treatment and post-treatment behaviors across solitary and group settings.
 Utilizing a detailed dataset (source: Michelangeli, M., Munson, A. and Sih, A. (2021) “Stable social groups foster conformity and among-group differences”. Zenodo. doi: 10.25338/B84W7B.) Link: [Stable social groups foster conformity and among-group differences (zenodo.org)](https://zenodo.org/records/4641952#.Y9Y77tJBwUE)
